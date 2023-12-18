@@ -1,16 +1,16 @@
 - 👋 Hallo, ich bin @Pizzakaufen
 
-🌐 ***Socials:***
+🌐 ***Social:***
 > ``TikTok, Twitter``
 
-💫 ***About Me:***
-🔭 I’m currently working on my Skills.
+💫 ***Über mich:***
+🔭 Ich arbeite derzeit an meinen Fähigkeiten.
 
-🌱 I'm currently learning more about FIveM server development.
+🌱 Ich lerne derzeit mehr über die FIveM-Serverentwicklung.
 
-💬 Ask me about any tech-related stuff.
+💬 Fragen Sie mich nach technischen Themen.
 
-📫 How to reach me: Email - ?
+📫 So erreichen Sie mich: E-Mail - ?
 
 🖥️ ***Entwicklerzugriff***
 > ``Lua, HTML, Log, DLL, Ini, C#,  SQL.``
