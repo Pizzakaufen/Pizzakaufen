@@ -1,100 +1,24 @@
-<div align="center">
+## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/tommy141x/Tommy141x/refs/heads/main/wave.gif"> Hi there, I'm Pizzakaufen
 
-# 👋 Hey there, I'm Pizzakaufen
+> It's not a bug — it's a feature 🔥
 
-### 🇩🇪 FiveM Developer & Graphic Designer from Germany
+### 🎮 I'm a FiveM Developer & Graphic Designer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pizzakaufen&color=blueviolet&style=flat-square)](https://github.com/pizzakaufen)
-[![GitHub followers](https://img.shields.io/github/followers/pizzakaufen?label=Follow&style=flat-square&color=blueviolet)](https://github.com/pizzakaufen)
+I'm a FiveM developer and graphic designer based in Germany 🇩🇪, specializing in building immersive roleplay server experiences and custom visual assets.
 
-</div>
+- 🔭 Current Project: [Project Reload Remastered]
+- 🌱 Currently Learning: Advanced C# scripting & NUI development
+- 👯 Looking to collaborate on FiveM open-source projects
+- 🥅 2025 Goals: Release Project Reload Remastered to the public
+- ⚡ Fun fact: I turn coffee into FiveM scripts ☕
 
----
-
-## 🧑‍💻 About Me
-
-```lua
-local developer = {
-    name        = "Pizzakaufen",
-    location    = "Germany 🇩🇪",
-    focus       = "FiveM Development & Graphic Design",
-    currentProject = "Project Reload Remastered",
-    languages   = { "Lua", "C++", "C#" },
-    funFact     = "I turn coffee into FiveM scripts ☕"
-}
-```
-
-- 🔧 Passionate **FiveM developer** building immersive server experiences
-- 🎨 Part-time **Graphic Designer** — UI, logos, and visual assets
-- 🚀 Currently working on **Project Reload Remastered**
-- 🌱 Always learning and improving my craft
-- 💬 Feel free to reach out — I'm always open to collabs!
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Languages
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Tools & Platforms
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Design
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Project — Project Reload Remastered
-
-<div align="center">
-
-<!-- Replace the URL below with your actual project banner -->
-![Project Reload Remastered Banner](https://via.placeholder.com/900x300/1a1a2e/ffffff?text=Project+Reload+Remastered)
-
-</div>
-
-> **Project Reload Remastered** is a fully revamped FiveM experience — rebuilt from the ground up with new mechanics, enhanced visuals, and a deeper roleplay focus.
-
-### ✨ Features
-- 🔫 Completely reworked weapon & reload system
-- 🎮 Custom UI built with NUI / HTML + CSS
-- ⚙️ Optimized scripts for maximum server performance
-- 🗺️ Hand-crafted map additions and environmental design
-- 🎨 Custom graphic assets and HUD elements
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*Made with ❤️ in Germany 🇩🇪*
-
-</div>
+### Languages and Tools:
+<p align="left">
+<code><a href="https://www.lua.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="Lua" width="30" height="30"/></a></code>
+<code><a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/180320cfff25f329e996d390f46012a394e2afe4/topics/cpp/cpp.png" alt="C++" width="30" height="30"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" width="30" height="30"/></a></code>
+<code><a href="https://dot.net" target="_blank"><img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt=".NET" width="30" height="30"/></a></code>
+<code><a href="https://git-scm.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="30" height="30"/></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0f8d5b9f4e23c0a5e2c4e2b9d234/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30" height="30"/></a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photoshop/photoshop.png" alt="Photoshop" width="30" height="30"/></a></code>
+</p>
