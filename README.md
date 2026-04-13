@@ -4,7 +4,7 @@
 
 ### 🎮 I'm a FiveM Developer & Graphic Designer
 
-I'm a FiveM developer and graphic designer based in Germany 🇩🇪, specializing in building immersive roleplay server experiences and custom visual assets.
+I'm a FiveM developer and graphic designer based in Germany, specializing in building immersive roleplay server experiences and custom visual assets.
 
 - 🔭 Current Project: [Project Reload Remastered](https://projectreload.de)
 - 🌱 Currently Learning: Advanced C# scripting & NUI development
