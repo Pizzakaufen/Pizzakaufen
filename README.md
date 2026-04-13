@@ -9,7 +9,7 @@ I'm a FiveM developer and graphic designer based in Germany, specializing in bui
 - 🔭 Current Project: [Project Reload Remastered](https://projectreload.de)
 - 🌱 Currently Learning: Advanced C# scripting & NUI development
 - 👯 Looking to collaborate on FiveM open-source projects
-- 🥅 2025 Goals: Release Project Reload Remastered to the public
+- 🥅 2026 Goals: Release Project Reload Remastered to the public
 - ⚡ Fun fact: I turn coffee into FiveM scripts ☕
 
 ### Languages and Tools:
