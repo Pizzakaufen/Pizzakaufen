@@ -5,7 +5,7 @@
 ## [![GitHub followers](https://img.shields.io/github/followers/Pizzakaufen?color=333&label=Follow&logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Pizzakaufen?tab=followers) [![Website](https://img.shields.io/website?label=projectreload.de&style=for-the-badge&url=https%3A%2F%2Fprojectreload.de)](https://projectreload.de) <br>
 
 <a href="https://discord.com/users/1429086075435089976">
-  <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/YOURDISCORDID?theme=dark&animated=true&hideTimestamp=true" align="right" />
+  <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/1429086075435089976?theme=dark&animated=true&hideTimestamp=true" align="right" />
 </a>
 
 <p align="left">
