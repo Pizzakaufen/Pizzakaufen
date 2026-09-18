@@ -257,7 +257,7 @@ Some of these projects are public, while others are private experiments or perso
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pizzakaufen&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=Pizzakaufen&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak Stats">
 </p>
 
 <p>
