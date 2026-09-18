@@ -136,32 +136,6 @@ The project focuses on creating a modern, modular and immersive GTA V roleplay e
 
 ---
 
-### 📅 eDienstplanReload
-
-eDienstplanReload is a modern digital shift-planning application.
-
-The project is designed to make employee scheduling easier while providing a clean and modern Android experience.
-
-#### ✨ Features
-
-- 📅 Digital shift calendar
-- 🕐 Working hours
-- 👤 Employee availability
-- 🔄 Shift swapping
-- ⚖️ Fair shift distribution
-- 🚨 Conflict detection
-- 🔔 Push notifications
-- 🌙 Dark Mode
-- 🎨 Modern Material 3 UI
-- 📱 Jetpack Compose
-- 🖥️ Web administration
-- 🔌 Direct server connection
-- 📡 Offline-oriented functionality
-
-The application is continuously being improved with new features, UI updates and performance improvements.
-
----
-
 ### 🤖 BerichtsAI
 
 BerichtsAI is an Android application focused on creating vocational training reports with the help of AI.
