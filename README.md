@@ -208,7 +208,7 @@ Some of these projects are public, while others are private experiments or perso
   <a href="https://github.com/Pizzakaufen">
     <img src="https://img.shields.io/badge/GitHub-Pizzakaufen-181717?style=for-the-badge&amp;logo=github" alt="GitHub">
   </a>
-  <a href="https://projectreload.de">
+  <a href="https://pizzakaufen.github.io/">
     <img src="https://img.shields.io/badge/Website-Project%20Reload-333?style=for-the-badge&amp;logo=googlechrome" alt="Website">
   </a>
   <a href="https://discord.com/users/1429086075435089976">
