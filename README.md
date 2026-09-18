@@ -20,8 +20,9 @@ I enjoy turning ideas into complete projects — from the first concept and inte
   <a href="https://discord.com/users/1429086075435089976">
     <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord Profile">
   </a>
-  <img src="https://api.statusbadges.me/badge/status/1429086075435089976?style=for-the-badge" alt="Discord Status">
-  <img src="https://api.statusbadges.me/badge/playing/1429086075435089976?style=for-the-badge" alt="Discord Activity">
+  <span>Live Discord presence:</span>
+  <img src="https://api.statusbadges.me/badge/status/1429086075435089976?style=for-the-badge" alt="Current Discord status badge">
+  <img src="https://api.statusbadges.me/badge/playing/1429086075435089976?style=for-the-badge" alt="Current Discord activity badge">
   <a href="https://github.com/Pizzakaufen">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Profile">
   </a>
@@ -218,7 +219,7 @@ My preferred design direction combines:
 - 📐 Clean layouts
 - 🎨 Modern typography
 - 📱 Material Design
-- 📱 One UI inspired interfaces
+- 📱 Samsung One UI-inspired interfaces
 - 🧩 Modular components
 - ⚡ Responsive interactions
 - 🎮 Game-inspired interfaces
