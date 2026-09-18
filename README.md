@@ -32,10 +32,3 @@ I'm a FiveM developer and graphic designer based in Germany 🇩🇪, specializi
   <code><a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/></a></code>
   <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="30" height="30"/></a></code>
 </p>
-
-### Nix development shell
-
-This repository now includes a `flake.nix` for a reproducible development environment.
-
-- Start it with `nix develop`
-- Included tools: Git, Lua, Lua Language Server, .NET 8 SDK, Clang tools, CMake, pkg-config, and `nixfmt`
