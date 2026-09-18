@@ -11,8 +11,8 @@ I enjoy turning ideas into complete projects — from the first concept and inte
   <a href="https://github.com/Pizzakaufen?tab=followers">
     <img src="https://img.shields.io/github/followers/Pizzakaufen?color=333&amp;label=Follow&amp;logo=github&amp;logoColor=fff&amp;style=for-the-badge" alt="GitHub followers">
   </a>
-  <a href="https://pizzakaufen.github.io">
-    <img src="https://img.shields.io/website?label=https://pizzakaufen.github.io&amp;style=for-the-badge&amp;url=https%3A%2F%2Fprojectreload.de" alt="Website status">
+  <a href="pizzakaufen.github.io">
+    <img src="https://img.shields.io/website?label=pizzakaufen.github.io&amp;style=for-the-badge&amp;url=https%3A%2F%2Fprojectreload.de" alt="Website status">
   </a>
 </p>
 
