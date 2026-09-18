@@ -4,13 +4,11 @@
 
 ## [![GitHub followers](https://img.shields.io/github/followers/Pizzakaufen?color=333&label=Follow&logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Pizzakaufen?tab=followers) [![Website](https://img.shields.io/website?label=projectreload.de&style=for-the-badge&url=https%3A%2F%2Fprojectreload.de)](https://projectreload.de) <br>
 
-<a href="https://discord.com/users/1429086075435089976">
-  <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/1429086075435089976?theme=dark&animated=true&hideTimestamp=true" align="right" />
-</a>
-
 <p align="left">
-  <code><a href="https://discord.com/users/1429086075435089976" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="30" height="30"/></a></code>
-  <code><a href="https://github.com/Pizzakaufen" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a></code>
+  <a href="https://discord.com/users/1429086075435089976" target="_blank"><img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile"/></a>
+  <img src="https://api.statusbadges.me/badge/status/1429086075435089976?style=for-the-badge" alt="Discord Status"/>
+  <img src="https://api.statusbadges.me/badge/playing/1429086075435089976?style=for-the-badge" alt="Discord Activity"/>
+  <a href="https://github.com/Pizzakaufen" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
 </p>
 
 ### 🎮 I'm a FiveM Developer & Graphic Designer
