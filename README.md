@@ -11,7 +11,7 @@ I enjoy turning ideas into complete projects — from the first concept and inte
   <a href="https://github.com/Pizzakaufen?tab=followers">
     <img src="https://img.shields.io/github/followers/Pizzakaufen?color=333&amp;label=Follow&amp;logo=github&amp;logoColor=fff&amp;style=for-the-badge" alt="GitHub followers">
   </a>
-  <a href="https://projectreload.de">
+  <a href="https://pizzakaufen.github.io">
     <img src="https://img.shields.io/website?label=projectreload.de&amp;style=for-the-badge&amp;url=https%3A%2F%2Fprojectreload.de" alt="Website status">
   </a>
 </p>
@@ -105,36 +105,6 @@ I enjoy turning ideas into complete projects — from the first concept and inte
 ---
 
 ## 🚀 Featured Projects
-
-### 🎮 Project Reload
-
-Project Reload is my main FiveM development project.
-
-The project focuses on creating a modern, modular and immersive GTA V roleplay experience with custom systems, interfaces and server infrastructure.
-
-#### ✨ Main Areas
-
-- 🎮 Custom FiveM gameplay systems
-- 👤 Character management
-- 👮 Police systems
-- 🚑 Emergency services
-- 💼 Job systems
-- 💰 Economy & finance
-- 📱 Phone systems
-- 💻 Laptop systems
-- 📻 Radio & communication
-- 🏦 Banking
-- 🚗 Vehicle systems
-- 🏥 Medical systems
-- 🚔 MDT systems
-- 🔐 Security & anti-cheat
-- 🎨 Custom NUI interfaces
-- 🗄️ Database systems
-- ⚡ Performance optimization
-
-🌐 Website: [projectreload.de](https://projectreload.de)
-
----
 
 ### 🤖 BerichtsAI
 
